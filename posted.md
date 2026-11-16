@@ -11,3 +11,6 @@
 | 2026-11-18 | 08:00 | soc-11-cliente-volta | 3 jeitos de fazer o cliente voltar |
 | 2026-11-18 | 12:00 | soc-12-reduzir-faltas | Como diminuir as faltas |
 | 2026-11-18 | 18:00 | soc-13-chega-de-caderno | Chega de agenda no caderno |
+| 2026-11-19 | 08:00 | soc-14-nota-cliente | 3 coisas que o cliente nota |
+| 2026-11-19 | 12:00 | soc-15-divulgar-link | Vale divulgar o link no Instagram |
+| 2026-11-19 | 18:00 | soc-16-sem-app-sem-cadastro | Sem app e sem cadastro |

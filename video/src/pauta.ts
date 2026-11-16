@@ -97,4 +97,34 @@ export const pauta: Entry[] = [
       cta: 'Link na bio',
     },
   },
+  {
+    id: 'soc-14-nota-cliente',
+    template: 'C',
+    props: {
+      title: '3 coisas que o cliente nota na barbearia',
+      tips: ['Atendimento no horário marcado', 'Ambiente limpo e organizado', 'Preço combinado antes do corte'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-15-divulgar-link',
+    template: 'D',
+    props: {
+      question: 'Vale divulgar o link no Instagram?',
+      answer: 'Vale. Deixe na bio e fixe um post explicando como marcar.',
+      detail: 'Quanto menos passos, mais clientes marcam.',
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-16-sem-app-sem-cadastro',
+    template: 'A',
+    props: {
+      hook: 'Sem app e sem cadastro: só o link',
+      cardTitle: 'Agendamento pelo link',
+      rows: [{ text: 'Nome' }, { text: 'Telefone' }, { time: '14:00', text: 'Quinta' }],
+      badge: 'Horário reservado',
+      cta: 'Link na bio',
+    },
+  },
 ];
