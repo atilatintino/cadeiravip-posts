@@ -1,0 +1,18 @@
+{
+  "name": "cadeiravip-video",
+  "private": true,
+  "description": "Vídeos curtos da landing (spec 18, ADR-12). Projeto isolado do Laravel.",
+  "scripts": {
+    "studio": "remotion studio",
+    "build": "remotion render src/index.ts WhatsappIA out/whatsapp-ia.mp4 --crf=23",
+    "instagram": "node scripts/render-instagram.mjs",
+    "stories": "node scripts/render-stories.mjs",
+    "poster": "remotion still src/index.ts WhatsappIA out/whatsapp-ia-poster.png --frame=345"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.539"
+  }
+}
