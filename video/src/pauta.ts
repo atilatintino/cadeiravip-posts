@@ -127,4 +127,34 @@ export const pauta: Entry[] = [
       cta: 'Link na bio',
     },
   },
+  {
+    id: 'soc-17-whatsapp-dicas',
+    template: 'C',
+    props: {
+      title: '3 jeitos de usar bem o WhatsApp na barbearia',
+      tips: ['Tenha um número só da barbearia', 'Responda rápido, mesmo que seja um "já te falo"', 'Confirme o horário um dia antes'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-18-ia-so-com-o-sim',
+    template: 'D',
+    props: {
+      question: 'O assistente de IA marca horário sozinho?',
+      answer: 'Só depois do sim do cliente. Você liga e desliga quando quiser.',
+      detail: 'Ele vem desligado até você ativar.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-19-lembrete-whatsapp',
+    template: 'A',
+    props: {
+      hook: 'Cliente responde o lembrete e pronto',
+      cardTitle: 'Lembrete no WhatsApp',
+      rows: [{ text: 'Lembrete enviado' }, { text: 'Cliente: "pode confirmar"' }, { time: '15:00', text: 'Amanhã' }],
+      badge: 'Confirmado',
+      cta: 'Link na bio',
+    },
+  },
 ];

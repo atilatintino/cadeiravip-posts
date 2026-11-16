@@ -14,3 +14,6 @@
 | 2026-11-19 | 08:00 | soc-14-nota-cliente | 3 coisas que o cliente nota |
 | 2026-11-19 | 12:00 | soc-15-divulgar-link | Vale divulgar o link no Instagram |
 | 2026-11-19 | 18:00 | soc-16-sem-app-sem-cadastro | Sem app e sem cadastro |
+| 2026-11-20 | 08:00 | soc-17-whatsapp-dicas | 3 jeitos de usar bem o WhatsApp |
+| 2026-11-20 | 12:00 | soc-18-ia-so-com-o-sim | Assistente de IA so marca com o sim do cliente |
+| 2026-11-20 | 18:00 | soc-19-lembrete-whatsapp | Cliente responde o lembrete e confirma |
