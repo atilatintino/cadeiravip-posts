@@ -67,4 +67,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-11-cliente-volta',
+    template: 'C',
+    props: {
+      title: '3 jeitos de fazer o cliente voltar',
+      tips: ['Lembre o nome e o corte de cada cliente', 'Chame o cliente quando abrir uma vaga', 'Deixe o próximo horário marcado antes dele sair'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-12-reduzir-faltas',
+    template: 'D',
+    props: {
+      question: 'Como diminuir as faltas na agenda?',
+      answer: 'Confirme o horário um dia antes e facilite a remarcação.',
+      detail: 'Quem remarca rápido não some.',
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-13-chega-de-caderno',
+    template: 'A',
+    props: {
+      hook: 'Chega de agenda no caderno',
+      cardTitle: 'Barbearia Exemplo',
+      rows: [{ text: 'Barba' }, { text: 'Rafael' }, { time: '10:30', text: 'Sábado' }],
+      badge: 'Agendado',
+      cta: 'Link na bio',
+    },
+  },
 ];
