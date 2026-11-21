@@ -157,4 +157,34 @@ export const pauta: Entry[] = [
       cta: 'Link na bio',
     },
   },
+  {
+    id: 'soc-20-agenda-organizada',
+    template: 'C',
+    props: {
+      title: '3 hábitos para a agenda não virar bagunça',
+      tips: ['Defina o horário de almoço e folga', 'Combine o tempo de cada serviço', 'Revise a agenda do dia seguinte'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-21-cliente-cancela-sozinho',
+    template: 'D',
+    props: {
+      question: 'O cliente pode cancelar sozinho?',
+      answer: 'Pode, pelo link da barbearia. E você é avisado.',
+      detail: 'O horário volta a ficar livre.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-22-bloqueia-almoco',
+    template: 'A',
+    props: {
+      hook: 'Bloqueie almoço e folga em segundos',
+      cardTitle: 'Agenda do dono',
+      rows: [{ text: 'Almoço' }, { text: 'Folga' }, { time: '12:00', text: 'Bloqueado' }],
+      badge: 'Horário bloqueado',
+      cta: 'Link na bio',
+    },
+  },
 ];

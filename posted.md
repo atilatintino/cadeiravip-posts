@@ -17,3 +17,6 @@
 | 2026-11-20 | 08:00 | soc-17-whatsapp-dicas | 3 jeitos de usar bem o WhatsApp |
 | 2026-11-20 | 12:00 | soc-18-ia-so-com-o-sim | Assistente de IA so marca com o sim do cliente |
 | 2026-11-20 | 18:00 | soc-19-lembrete-whatsapp | Cliente responde o lembrete e confirma |
+| 2026-11-21 | 08:00 | soc-20-agenda-organizada | 3 habitos para a agenda nao virar bagunca |
+| 2026-11-21 | 12:00 | soc-21-cliente-cancela-sozinho | Cliente pode cancelar sozinho |
+| 2026-11-21 | 18:00 | soc-22-bloqueia-almoco | Bloqueie almoco e folga em segundos |
