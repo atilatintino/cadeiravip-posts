@@ -20,3 +20,6 @@
 | 2026-11-21 | 08:00 | soc-20-agenda-organizada | 3 habitos para a agenda nao virar bagunca |
 | 2026-11-21 | 12:00 | soc-21-cliente-cancela-sozinho | Cliente pode cancelar sozinho |
 | 2026-11-21 | 18:00 | soc-22-bloqueia-almoco | Bloqueie almoco e folga em segundos |
+| 2026-11-22 | 08:00 | soc-23-sabado-cheio | 3 dicas para o dia de agenda cheia |
+| 2026-11-22 | 12:00 | soc-24-agenda-whatsapp-site | WhatsApp e site tem agendas separadas? |
+| 2026-11-22 | 18:00 | soc-25-caixa-de-conversas | Responda o WhatsApp sem pegar o celular |

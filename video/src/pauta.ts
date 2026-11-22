@@ -187,4 +187,34 @@ export const pauta: Entry[] = [
       cta: 'Link na bio',
     },
   },
+  {
+    id: 'soc-23-sabado-cheio',
+    template: 'C',
+    props: {
+      title: '3 dicas para o dia de agenda cheia',
+      tips: ['Confirme os horários na véspera', 'Deixe uma folga entre os cortes', 'Chame quem está na espera se vagar'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-24-agenda-whatsapp-site',
+    template: 'D',
+    props: {
+      question: 'WhatsApp e site têm agendas separadas?',
+      answer: 'Não. A agenda do WhatsApp é a mesma do site.',
+      detail: 'Dois clientes nunca ficam no mesmo horário.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-25-caixa-de-conversas',
+    template: 'A',
+    props: {
+      hook: 'Responda o WhatsApp sem pegar o celular',
+      cardTitle: 'Caixa de conversas',
+      rows: [{ text: 'Mensagem recebida' }, { text: 'Equipe responde no painel' }, { time: '16:00', text: 'Horário marcado' }],
+      badge: 'Respondido',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];
