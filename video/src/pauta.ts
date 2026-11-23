@@ -217,4 +217,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-26-cliente-novo',
+    template: 'C',
+    props: {
+      title: '3 jeitos de acolher cliente novo',
+      tips: ['Pergunte como ele gosta do corte', 'Explique como marcar o próximo', 'Anote o que ele pediu para a volta'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-27-link-proprio',
+    template: 'D',
+    props: {
+      question: 'Cada barbearia tem seu link?',
+      answer: 'Sim. Cada barbearia tem o seu próprio link.',
+      detail: 'Ex.: suabarbearia.cadeiravip.com.br',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-28-ia-sugere-horario',
+    template: 'A',
+    props: {
+      hook: 'Assistente de IA sugere barbeiro e horário livre',
+      cardTitle: 'Conversa no WhatsApp',
+      rows: [{ text: 'Cliente pede um horário' }, { text: 'Assistente sugere barbeiro e horário' }, { time: '15:00', text: 'Marca só após o sim' }],
+      badge: 'Só marca com o sim',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];

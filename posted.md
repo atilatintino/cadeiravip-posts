@@ -23,3 +23,6 @@
 | 2026-11-22 | 08:00 | soc-23-sabado-cheio | 3 dicas para o dia de agenda cheia |
 | 2026-11-22 | 12:00 | soc-24-agenda-whatsapp-site | WhatsApp e site tem agendas separadas? |
 | 2026-11-22 | 18:00 | soc-25-caixa-de-conversas | Responda o WhatsApp sem pegar o celular |
+| 2026-11-23 | 08:00 | soc-26-cliente-novo | 3 jeitos de acolher cliente novo |
+| 2026-11-23 | 12:00 | soc-27-link-proprio | Cada barbearia tem seu link? |
+| 2026-11-23 | 18:00 | soc-28-ia-sugere-horario | Assistente de IA sugere barbeiro e horario livre |
