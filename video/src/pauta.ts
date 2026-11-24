@@ -247,4 +247,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-29-semana-organizada',
+    template: 'C',
+    props: {
+      title: '3 jeitos de organizar a semana',
+      tips: ['Defina as folgas com antecedência', 'Bloqueie o horário do almoço', 'Veja a agenda de amanhã hoje à noite'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-30-fim-do-teste',
+    template: 'D',
+    props: {
+      question: 'E se o teste grátis acabar?',
+      answer: 'Nada é apagado. Ao assinar, tudo volta.',
+      detail: 'Sem cartão para começar o teste.',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
+  {
+    id: 'soc-31-ia-passa-equipe',
+    template: 'A',
+    props: {
+      hook: 'Assistente de IA passa a conversa para a equipe',
+      cardTitle: 'Conversa no WhatsApp',
+      rows: [{ text: 'Cliente manda uma dúvida' }, { text: 'Assistente não entende' }, { text: 'Equipe assume a conversa' }],
+      badge: 'Com a equipe',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];

@@ -26,3 +26,6 @@
 | 2026-11-23 | 08:00 | soc-26-cliente-novo | 3 jeitos de acolher cliente novo |
 | 2026-11-23 | 12:00 | soc-27-link-proprio | Cada barbearia tem seu link? |
 | 2026-11-23 | 18:00 | soc-28-ia-sugere-horario | Assistente de IA sugere barbeiro e horario livre |
+| 2026-11-24 | 08:00 | soc-29-semana-organizada | 3 jeitos de organizar a semana |
+| 2026-11-24 | 12:00 | soc-30-fim-do-teste | E se o teste gratis acabar? |
+| 2026-11-24 | 18:00 | soc-31-ia-passa-equipe | Assistente de IA passa a conversa para a equipe |
