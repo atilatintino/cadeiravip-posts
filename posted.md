@@ -29,3 +29,6 @@
 | 2026-11-24 | 08:00 | soc-29-semana-organizada | 3 jeitos de organizar a semana |
 | 2026-11-24 | 12:00 | soc-30-fim-do-teste | E se o teste gratis acabar? |
 | 2026-11-24 | 18:00 | soc-31-ia-passa-equipe | Assistente de IA passa a conversa para a equipe |
+| 2026-11-25 | 08:00 | soc-32-cliente-atrasado | 3 jeitos de lidar com atraso |
+| 2026-11-25 | 12:00 | soc-33-desligar-assistente | Posso desligar o assistente de IA? |
+| 2026-11-25 | 18:00 | soc-34-ensine-assistente | Ensine o assistente de IA o que ele pode dizer |

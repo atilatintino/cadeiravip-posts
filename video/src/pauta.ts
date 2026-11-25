@@ -277,4 +277,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-32-cliente-atrasado',
+    template: 'C',
+    props: {
+      title: '3 jeitos de lidar com atraso',
+      tips: ['Combine a tolerância de atraso antes', 'Avise o próximo se alguém atrasar', 'Ajuste a agenda sem correria'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-33-desligar-assistente',
+    template: 'D',
+    props: {
+      question: 'Posso desligar o assistente de IA?',
+      answer: 'Sim. O dono liga e desliga quando quiser.',
+      detail: 'Ele já vem desligado.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-34-ensine-assistente',
+    template: 'A',
+    props: {
+      hook: 'Ensine o assistente de IA o que ele pode dizer',
+      cardTitle: 'Assistente de IA',
+      rows: [{ text: 'Dono ensina o que ele pode dizer' }, { text: 'Dono testa antes de ligar' }, { text: 'Liga e desliga quando quiser' }],
+      badge: 'Você no controle',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];
