@@ -307,4 +307,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-35-cuidados-preco',
+    template: 'C',
+    props: {
+      title: '3 cuidados ao definir seus preços',
+      tips: ['Conheça o seu custo por atendimento', 'Valorize o tempo de cada serviço', 'Deixe a tabela clara para o cliente'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-36-todos-barbeiros',
+    template: 'D',
+    props: {
+      question: 'Posso cadastrar todos os barbeiros?',
+      answer: 'Sim. Barbeiros e agendamentos ilimitados.',
+      detail: '{preço} por mês para a barbearia inteira.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-37-remarcar-whatsapp',
+    template: 'A',
+    props: {
+      hook: 'Cliente remarca pelo WhatsApp',
+      cardTitle: 'Lembrete do horário',
+      rows: [{ text: 'Cliente recebe o lembrete' }, { text: 'Responde para remarcar' }, { text: 'Ou confirma, ou cancela' }],
+      badge: 'Pelo WhatsApp',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];

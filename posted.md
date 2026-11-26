@@ -32,3 +32,6 @@
 | 2026-11-25 | 08:00 | soc-32-cliente-atrasado | 3 jeitos de lidar com atraso |
 | 2026-11-25 | 12:00 | soc-33-desligar-assistente | Posso desligar o assistente de IA? |
 | 2026-11-25 | 18:00 | soc-34-ensine-assistente | Ensine o assistente de IA o que ele pode dizer |
+| 2026-11-26 | 08:00 | soc-35-cuidados-preco | 3 cuidados ao definir seus precos |
+| 2026-11-26 | 12:00 | soc-36-todos-barbeiros | Posso cadastrar todos os barbeiros? |
+| 2026-11-26 | 18:00 | soc-37-remarcar-whatsapp | Cliente remarca pelo WhatsApp |
