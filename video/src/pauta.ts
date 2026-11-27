@@ -337,4 +337,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-38-intervalo-clientes',
+    template: 'C',
+    props: {
+      title: '3 jeitos de usar o intervalo',
+      tips: ['Deixe a cadeira pronta pro próximo', 'Responda as mensagens pendentes', 'Respire um minuto antes de seguir'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-39-cliente-ligar',
+    template: 'D',
+    props: {
+      question: 'Cliente precisa ligar para marcar?',
+      answer: 'Não. Ele marca pelo link da barbearia.',
+      detail: 'Informa só nome e telefone.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-40-dono-avisado-cancelamento',
+    template: 'A',
+    props: {
+      hook: 'Cliente cancelou? Você é avisado',
+      cardTitle: 'Cancelamento pelo link',
+      rows: [{ text: 'Cliente abre o link' }, { text: 'Cancela sozinho' }, { text: 'Dono é avisado' }],
+      badge: 'Você sempre sabe',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];

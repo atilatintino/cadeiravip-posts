@@ -35,3 +35,6 @@
 | 2026-11-26 | 08:00 | soc-35-cuidados-preco | 3 cuidados ao definir seus precos |
 | 2026-11-26 | 12:00 | soc-36-todos-barbeiros | Posso cadastrar todos os barbeiros? |
 | 2026-11-26 | 18:00 | soc-37-remarcar-whatsapp | Cliente remarca pelo WhatsApp |
+| 2026-11-27 | 08:00 | soc-38-intervalo-clientes | 3 jeitos de usar o intervalo |
+| 2026-11-27 | 12:00 | soc-39-cliente-ligar | Cliente precisa ligar para marcar? |
+| 2026-11-27 | 18:00 | soc-40-dono-avisado-cancelamento | Cliente cancelou? Dono e avisado |
