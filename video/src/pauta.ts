@@ -367,4 +367,34 @@ export const pauta: Entry[] = [
       cta: '{dias} dias grátis · Link na bio',
     },
   },
+  {
+    id: 'soc-41-fechar-o-dia',
+    template: 'C',
+    props: {
+      title: '3 hábitos para fechar o dia',
+      tips: ['Confira a agenda de amanhã', 'Deixe o espaço limpo e arrumado', 'Anote o que pode melhorar'],
+      cta: 'Siga para mais dicas',
+    },
+  },
+  {
+    id: 'soc-42-assistente-vem-desligado',
+    template: 'D',
+    props: {
+      question: 'O assistente de IA já vem ligado?',
+      answer: 'Não. Ele vem desligado e você liga quando quiser.',
+      detail: 'Opcional no WhatsApp.',
+      cta: 'Link na bio',
+    },
+  },
+  {
+    id: 'soc-43-teste-antes-de-ligar',
+    template: 'A',
+    props: {
+      hook: 'Teste o assistente antes de ligar',
+      cardTitle: 'Assistente de IA',
+      rows: [{ text: 'Você ensina o que ele diz' }, { text: 'Testa a conversa' }, { text: 'Liga quando quiser' }],
+      badge: 'Você no controle',
+      cta: '{dias} dias grátis · Link na bio',
+    },
+  },
 ];

@@ -38,3 +38,6 @@
 | 2026-11-27 | 08:00 | soc-38-intervalo-clientes | 3 jeitos de usar o intervalo |
 | 2026-11-27 | 12:00 | soc-39-cliente-ligar | Cliente precisa ligar para marcar? |
 | 2026-11-27 | 18:00 | soc-40-dono-avisado-cancelamento | Cliente cancelou? Dono e avisado |
+| 2026-11-28 | 08:00 | soc-41-fechar-o-dia | 3 habitos para fechar o dia |
+| 2026-11-28 | 12:00 | soc-42-assistente-vem-desligado | O assistente de IA ja vem ligado? |
+| 2026-11-28 | 18:00 | soc-43-teste-antes-de-ligar | Teste o assistente de IA antes de ligar |
